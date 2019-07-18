@@ -41,7 +41,7 @@ Compilers
  * [PolyOpt/Fortran](http://hpcrl.cse.ohio-state.edu/wiki/index.php/PolyOpt/Fortran)
  * [RosePolly](https://github.com/rose-compiler/rose/tree/master/projects/RosePolly)
  * [PPCG](http://ppcg.gforge.inria.fr/), <a class="citation">VERDOOLAEGE2013PPCG</a>
- * [R-Stream](https://www.reservoir.com/products), <a class="citation">SCHWEITZ2006RSTREAM</a>
+ * [R-Stream](https://www.reservoir.com/product/r-stream/), <a class="citation">SCHWEITZ2006RSTREAM</a>
  * [Traco](http://traco.sourceforge.net), <a class="citation">BIELECKI2016</a>
 
 
